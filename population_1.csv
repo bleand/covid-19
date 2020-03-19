@@ -1,160 +1,163 @@
 Territory,Population
-Afghanistan,37172386
-Albania,2866376
-Algeria,42228429
-Andorra,77006
-Antigua and Barbuda,96286
-Argentina,44494502
-Armenia,2951776
-Aruba,105845
-Australia,24992369
-Austria,8847037
-Azerbaijan,9942334
-Bahrain,1569439
-Bangladesh,161356039
-Belarus,9485386
-Belgium,11422068
-Bhutan,754394
-Bolivia,11353142
-Bosnia and Herzegovina,3323929
-Brazil,209469333
-Brunei,428697
-Bulgaria,7024216
-Burkina Faso,19751535
-Cambodia,16249798
-Cameroon,25216237
-Canada,37058856
-Cayman Islands,64174
-Chile,18729160
-China,1392730000
-China - Hubei,58500000
-Colombia,49648685
-Congo (Kinshasa),84068091
-Costa Rica,4999441
-Cote d'Ivoire,25069229
-Croatia,4089400
-Cruise Ship,2670
-Cuba,11338138
-Curacao,159849
-Cyprus,1189265
-Czechia,10625695
-Denmark,5797446
-Dominican Republic,10627165
-Ecuador,17084357
-Egypt,98423595
-Estonia,1320884
-Eswatini,1136191
-Ethiopia,109224559
-Finland,5518050
-France,66987244
-French Guiana,290691
-Gabon,2119275
-Georgia,3731000
-Germany,82927922
-Ghana,29767108
-Greece,10727668
-Guadeloupe,395700
-Guatemala,17247807
-Guernsey,66697
-Guinea,12414318
-Guyana,779004
-Holy See,1000
-Honduras,9587522
-Hungary,9768785
-Iceland,353574
-India,1352617328
-Indonesia,267663435
-Iran,81800269
-Iraq,38433600
-Ireland,4853506
-Israel,8883800
-Italy,60431283
-Jamaica,2934855
-Japan,126529100
-Jersey,97857
-Jordan,9956011
-Kazakhstan,18276499
-Kenya,51393010
-"Korea, South",51635256
-Kuwait,4137309
-Latvia,1926542
-Lebanon,6848925
-Liechtenstein,37910
-Lithuania,2789533
-Luxembourg,607728
-Malaysia,31528585
-Maldives,515696
-Malta,483530
-Martinique,376480
-Mauritania,4403319
-Mexico,126190788
-Moldova,3545883
-Monaco,38682
-Mongolia,3170208
-Morocco,36029138
-Namibia,2448255
-Nepal,28087871
-Netherlands,17231017
-New Zealand,4885500
-Nigeria,195874740
-North Macedonia,2082958
-Norway,5314336
-Oman,4829483
-Pakistan,212215030
-Panama,4176873
-Paraguay,6956071
-Peru,31989256
-Philippines,106651922
-Poland,37978548
-Portugal,10281762
-Qatar,2781677
-Reunion,859959
-Romania,19473936
-Russia,144478050
-Rwanda,12301939
-Saint Lucia,178844
-Saint Vincent and the Grenadines,109897
-San Marino,33785
-Saudi Arabia,33699947
-Senegal,15854360
-Serbia,6982084
-Seychelles,96762
-Singapore,5638676
-Slovakia,5447011
-Slovenia,2067372
-South Africa,57779622
-Spain,46723749
-Sri Lanka,21670000
-Sudan,41801533
-Suriname,575991
-Sweden,10183175
-Switzerland,8516543
-Taiwan*,23780000
-Thailand,69428524
-Togo,7889094
-Trinidad and Tobago,1389858
-Tunisia,11565204
-Turkey,82319724
-US,327167434
-Ukraine,44622516
-United Arab Emirates,9630959
-United Kingdom,66488991
-Uruguay,3449299
-Venezuela,28870195
-Vietnam,95540395
-occupied Palestinian territory,4685000
-Central African Republic,4659000
-Congo (Brazzaville),5261000
-Equatorial Guinea,1268000
-Kosovo,1831000
-Uzbekistan,32390000
-Benin,11180000
-Greenland,56171
-Guam,164229
-Liberia,4732000
-Mayotte,270372
-Puerto Rico,3195000
-Republic of the Congo,81340000
-Somalia,17740000
-Tanzania,57310000
-The Bahamas,395361
+Afghanistan,37172386.00
+Albania,2866376.00
+Algeria,42228429.00
+Andorra,77006.00
+Antigua and Barbuda,96286.00
+Argentina,44494502.00
+Armenia,2951776.00
+Aruba,105845.00
+Australia,24992369.00
+Austria,8847037.00
+Azerbaijan,9942334.00
+Bahrain,1569439.00
+Bangladesh,161356039.00
+Belarus,9485386.00
+Belgium,11422068.00
+Bhutan,754394.00
+Bolivia,11353142.00
+Bosnia and Herzegovina,3323929.00
+Brazil,209469333.00
+Brunei,428697.00
+Bulgaria,7024216.00
+Burkina Faso,19751535.00
+Cambodia,16249798.00
+Cameroon,25216237.00
+Canada,37058856.00
+Cayman Islands,64174.00
+Chile,18729160.00
+China,1392730000.00
+China - Hubei,58500000.00
+Colombia,49648685.00
+Congo (Kinshasa),84068091.00
+Costa Rica,4999441.00
+Cote d'Ivoire,25069229.00
+Croatia,4089400.00
+Cruise Ship,2670.00
+Cuba,11338138.00
+Curacao,159849.00
+Cyprus,1189265.00
+Czechia,10625695.00
+Denmark,5797446.00
+Dominican Republic,10627165.00
+Ecuador,17084357.00
+Egypt,98423595.00
+Estonia,1320884.00
+Eswatini,1136191.00
+Ethiopia,109224559.00
+Finland,5518050.00
+France,66987244.00
+French Guiana,290691.00
+Gabon,2119275.00
+Georgia,3731000.00
+Germany,82927922.00
+Ghana,29767108.00
+Greece,10727668.00
+Guadeloupe,395700.00
+Guatemala,17247807.00
+Guernsey,66697.00
+Guinea,12414318.00
+Guyana,779004.00
+Holy See,1000.00
+Honduras,9587522.00
+Hungary,9768785.00
+Iceland,353574.00
+India,1352617328.00
+Indonesia,267663435.00
+Iran,81800269.00
+Iraq,38433600.00
+Ireland,4853506.00
+Israel,8883800.00
+Italy,60431283.00
+Jamaica,2934855.00
+Japan,126529100.00
+Jersey,97857.00
+Jordan,9956011.00
+Kazakhstan,18276499.00
+Kenya,51393010.00
+"Korea, South",51635256.00
+Kuwait,4137309.00
+Latvia,1926542.00
+Lebanon,6848925.00
+Liechtenstein,37910.00
+Lithuania,2789533.00
+Luxembourg,607728.00
+Malaysia,31528585.00
+Maldives,515696.00
+Malta,483530.00
+Martinique,376480.00
+Mauritania,4403319.00
+Mexico,126190788.00
+Moldova,3545883.00
+Monaco,38682.00
+Mongolia,3170208.00
+Morocco,36029138.00
+Namibia,2448255.00
+Nepal,28087871.00
+Netherlands,17231017.00
+New Zealand,4885500.00
+Nigeria,195874740.00
+North Macedonia,2082958.00
+Norway,5314336.00
+Oman,4829483.00
+Pakistan,212215030.00
+Panama,4176873.00
+Paraguay,6956071.00
+Peru,31989256.00
+Philippines,106651922.00
+Poland,37978548.00
+Portugal,10281762.00
+Qatar,2781677.00
+Reunion,859959.00
+Romania,19473936.00
+Russia,144478050.00
+Rwanda,12301939.00
+Saint Lucia,178844.00
+Saint Vincent and the Grenadines,109897.00
+San Marino,33785.00
+Saudi Arabia,33699947.00
+Senegal,15854360.00
+Serbia,6982084.00
+Seychelles,96762.00
+Singapore,5638676.00
+Slovakia,5447011.00
+Slovenia,2067372.00
+South Africa,57779622.00
+Spain,46723749.00
+Sri Lanka,21670000.00
+Sudan,41801533.00
+Suriname,575991.00
+Sweden,10183175.00
+Switzerland,8516543.00
+Taiwan*,23780000.00
+Thailand,69428524.00
+Togo,7889094.00
+Trinidad and Tobago,1389858.00
+Tunisia,11565204.00
+Turkey,82319724.00
+US,327167434.00
+Ukraine,44622516.00
+United Arab Emirates,9630959.00
+United Kingdom,66488991.00
+Uruguay,3449299.00
+Venezuela,28870195.00
+Vietnam,95540395.00
+occupied Palestinian territory,4685000.00
+Central African Republic,4659000.00
+Congo (Brazzaville),5261000.00
+Equatorial Guinea,1268000.00
+Kosovo,1831000.00
+Uzbekistan,32390000.00
+Benin,11180000.00
+Greenland,56171.00
+Guam,164229.00
+Liberia,4732000.00
+Mayotte,270372.00
+Puerto Rico,3195000.00
+Republic of the Congo,81340000.00
+Somalia,17740000.00
+Tanzania,57310000.00
+The Bahamas,395361.00
+Barbados,285719.00
+Montenegro,631219.00
+The Gambia,2101000.00
